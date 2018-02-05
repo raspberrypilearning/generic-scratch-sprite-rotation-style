@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+Puedes establecer en qué sentido rota un sprite.
 
-- Click on the blue **i** near the sprite in the **Sprites** panel.
+- Haga clic en el azul | 123_8_0_321 | i | 123_9_1_321 | cerca del sprite en | 123_8_2_321 | Sprites | 123_9_3_321 | panel.
 
-![Click on the i](images/click-i.png)
+![Haga clic en el i](images/click-i.png)
 
-- Click on the rotation style you want.
+- Haga clic en el estilo de rotación que desee.
 
-![Different rotation style](images/rotation-style.png)
+![Estilo de rotación diferente](images/rotation-style.png)
 
-The styles are:
+Los estilos son:
 
-- Full rotation — points the sprite in the direction it is facing
-- Left–right — flips the sprite left or right only
-- Don't rotate — the sprite looks the same regardless of which direction it is facing
+- Rotación completa: apunta al sprite en la dirección hacia la que se enfrenta
+- Izquierda-derecha: gira el sprite hacia la izquierda o hacia la derecha solo
+- No rotar: el objeto se ve igual, independientemente de la dirección hacia la que se enfrente
