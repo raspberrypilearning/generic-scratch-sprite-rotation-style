@@ -1,16 +1,16 @@
 ---
-title: Set sprite rotation style
-hero_image: images/banner.png
-description: Set the rotation style of a sprite
-theme: red
+title: Imposta lo stile di rotazione dello sprite
+hero_image: images / banner.png
+description: Imposta lo stile di rotazione di uno sprite
+theme: rosso
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: creatore, design-0, programmazione-0, compatta-0, fabbricazione-0, comunità-0
 interests: ""
-technologies: "scratch"
+technologies: "graffiare"
 site_areas: ""
 steps:
   - 
-    title: Introduction
+    title: introduzione
