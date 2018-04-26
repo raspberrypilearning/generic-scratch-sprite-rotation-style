@@ -1,4 +1,3 @@
----
 title: Stel de sprite-draaistijl in
 hero_image: images/banner.png
 description: Stel de draaistijl van een sprite in
@@ -10,6 +9,6 @@ copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: "scratch"
-site_areas: ""
+site_areas:
 steps:
-- title: Inleiding
+  - title: Inleiding
