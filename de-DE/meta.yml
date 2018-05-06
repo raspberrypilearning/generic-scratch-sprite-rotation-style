@@ -1,15 +1,15 @@
 ---
-title: Lege den Drehmodus für die Figur fest
+title: Lege den Drehmodus einer Figur fest
 hero_image: images/banner.png
-description: Legen Sie den Rotationsstil eines Sprites fest
-theme: rot
+description: Lege den Drehmodus von einer Figur fest
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: Schöpfer, Design-0, Programmierung-0, Phys-Comp-0, Herstellung-0, Community-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "kratzen"
+technologies: "scratch"
 site_areas:
 steps:
   - 
