@@ -1,10 +1,10 @@
-Sie können festlegen, wie ein Sprite rotiert.
+Du kannst festlegen, wie sich eine Figur dreht.
 
-- Klicken Sie auf das blaue | 123_8_0_321 | i | 123_9_1_321 | nahe dem Sprite in der | 123_8_2_321 | Sprites | 123_9_3_321 | Panel.
+- Klicke auf das blaue **i** neben der Figur im **Figuren**-Feld.
 
 ![Klicke auf das Ich](images/click-i.png)
 
-- Klicken Sie auf den gewünschten Rotationsstil.
+- Klicke auf den gewünschten Drehmodus.
 
 ![Unterschiedliche Rotationsart](images/rotation-style.png)
 
