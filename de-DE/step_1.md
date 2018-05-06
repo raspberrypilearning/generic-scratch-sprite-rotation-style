@@ -12,4 +12,4 @@ Die Stile sind:
 
 - Volle Drehung - zeigt das Sprite in die Richtung, in die es zeigt
 - Links-rechts - dreht das Sprite nur nach links oder rechts
-- Nicht rotieren - das Sprite sieht immer gleich aus, egal in welche Richtung es zeigt
+- Nicht rotieren - die Figur sieht immer gleich aus, egal in welche Richtung sie zeigt
