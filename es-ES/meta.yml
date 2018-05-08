@@ -1,7 +1,7 @@
 ---
-title: Establecer el estilo de rotación de sprites
+title: Establecer el estilo de rotación de objetos
 hero_image: images / banner.png
-description: Establecer el estilo de rotación de un sprite
+description: Establecer el estilo de rotación de un objeto
 theme: rojo
 duration: 1
 listed: false
@@ -10,7 +10,7 @@ copyedit: true
 curriculum: creador, diseño-0, programación-0, phys-comp-0, fabricación-0, comunidad-0
 interests: ""
 technologies: "rasguño"
-site_areas: ""
+site_areas:
 steps:
   - 
     title: Introducción
