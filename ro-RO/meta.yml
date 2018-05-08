@@ -1,7 +1,7 @@
 ---
-title: Setați stilul de rotire al personajului
+title: Setați modul de rotire al personajului
 hero_image: images / banner.png
-description: Setați stilul de rotire al unui personaj
+description: Setați modul de rotire al unui personaj
 theme: roșu
 duration: 1
 listed: false
@@ -10,7 +10,7 @@ copyedit: true
 curriculum: creator, design-0, programare-0, fiz-comp-0, fabricare-0, comunitate-0
 interests: ""
 technologies: "zgârietură"
-site_areas: ""
+site_areas:
 steps:
   - 
     title: Introducere
