@@ -1,6 +1,6 @@
-Puedes establecer en qué sentido rota un sprite.
+Puedes establecer en qué sentido rota un objeto.
 
-- Haz clic en la **i** azul cerca del sprite en el panel **Sprites**.
+- Haz clic en la **i** azul cerca del sprite en el panel **Objetos**.
 
 ![Haga clic en el i](images/click-i.png)
 
@@ -10,6 +10,6 @@ Puedes establecer en qué sentido rota un sprite.
 
 Los estilos son:
 
-- Rotación completa: apunta al sprite en la dirección hacia la que está mirando
-- Izquierda-derecha: gira el sprite solo hacia la izquierda o hacia la derecha
-- No rotar: el sprite se ve igual, independientemente de la dirección hacia la que esté mirando
+- Rotación completa: apunta al objeto en la dirección hacia la que está mirando
+- Izquierda-derecha: gira el objeto solo hacia la izquierda o hacia la derecha
+- No rotar: el objeto se ve igual, independientemente de la dirección hacia la que está mirando
