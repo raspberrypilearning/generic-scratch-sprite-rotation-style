@@ -2,11 +2,11 @@ Du kannst festlegen, wie sich eine Figur dreht.
 
 - Klicke auf das blaue **i** neben der Figur im **Figuren**-Feld.
 
-![Klicke auf das i](images/click-i.png)
+![Click on the i](images/click-i.png)
 
 - Klicke auf den gewünschten Drehmodus.
 
-![Verschiedene Drehmodi](images/rotation-style.png)
+![Different rotation style](images/rotation-style.png)
 
 Die Stile sind:
 
