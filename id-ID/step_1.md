@@ -10,6 +10,6 @@ Kamu dapat mengatur ke arah mana sprite berputar.
 
 Gaya yang tersedia adalah:
 
-- Rotasi penuh - menunjukkan sprite ke arah yang dihadapinya
-- Kiri-kanan - membalik sprite kiri atau kanan saja
-- Jangan diputar - sprite terlihat sama terlepas dari arah mana yang menghadapinya
+- Rotasi penuh — menunjukkan sprite ke arah yang dihadapinya
+- Kiri-kanan — membalik sprite ke kiri atau kanan saja
+- Jangan diputar — sprite terlihat sama terlepas dari arah mana yang menghadapinya
