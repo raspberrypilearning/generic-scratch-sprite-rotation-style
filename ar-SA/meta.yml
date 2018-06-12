@@ -1,8 +1,9 @@
+---
 title: تعيين نمط دوران الكائن
 hero_image: images/banner.png
 description: تعيين نمط الدوران لكائن
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: true
 copyedit: true
