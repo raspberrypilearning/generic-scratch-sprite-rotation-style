@@ -1,7 +1,7 @@
 ---
-title: Set sprite rotation style
+title: 设置子图旋转方式
 hero_image: images/banner.png
-description: Set the rotation style of a sprite
+description: 设置子图的旋转方式
 theme: red
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: 介绍
