@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+يمكنك تعيين نمط دوران الكائن.
 
-- Click on the blue **i** near the sprite in the **Sprites** panel.
+- انقر فوق الرمز **i** الأزرق بجوار الكائن في قائمة **الكائنات**.
 
-![Click on the i](images/click-i.png)
+![انقر فوق الرمز i](images/click-i.png)
 
-- Click on the rotation style you want.
+- انقر فوق نمط الدوران الذي تريده.
 
-![Different rotation style](images/rotation-style.png)
+![أنماط دوران مختلفة](images/rotation-style.png)
 
-The styles are:
+الأنماط هي:
 
-- Full rotation — points the sprite in the direction it is facing
-- Left–right — flips the sprite left or right only
-- Don't rotate — the sprite looks the same regardless of which direction it is facing
+- دوران كامل — يقوم بتدوير الكائن في الاتجاه الذي تواجهه
+- يسار–يمين — يغيِّر اتجاه الكائن إلى اليمين أو إلى اليسار فقط
+- عدم الدوران — يظل الكائن كما هو بغض النظر عن اتجاهه
