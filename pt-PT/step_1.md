@@ -1,4 +1,4 @@
-Você pode definir de que maneira um sprite gira.
+Podes definir de que maneira um sprite gira.
 
 - Clique no **i** azul perto do sprite no painel **Sprites**.
 
@@ -11,5 +11,5 @@ Você pode definir de que maneira um sprite gira.
 Os estilos são:
 
 - Rotação total - aponta o sprite na direção em frente
-- Esquerda-direita -Apenas inverte o sprite para a esquerda ou para a direita
+- Esquerda-direita - Apenas inverte o sprite para a esquerda ou para a direita
 - Não gire - o sprite parece o mesmo independentemente da direção em que está voltado
