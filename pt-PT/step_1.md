@@ -10,6 +10,6 @@ Podes definir de que maneira um actor gira.
 
 Os estilos são:
 
-- Rotação total - aponta o sprite na direção em frente
+- Rotação total - aponta o actor na direção em frente
 - Esquerda-direita - Apenas inverte o actor para a esquerda ou para a direita
-- Não gire - o actor parece o mesmo independentemente da direção em que está voltado
+- Não roda - o actor parece o mesmo independentemente da direção em que está voltado
