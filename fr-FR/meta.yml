@@ -1,7 +1,7 @@
 ---
 title: Définir le style de rotation du sprite
 hero_image: images / banner.png
-description: Définir le style de rotation d'un sprite
+description: Définir le style de rotation d'un lutin
 theme: rouge
 duration: 1
 listed: false
@@ -9,7 +9,7 @@ ingredient: true
 copyedit: true
 curriculum: créateur, design-0, programmation-0, phys-comp-0, fabrication-0, communauté-0
 interests: ""
-technologies: "rayure"
+technologies: "scratch"
 site_areas:
 steps:
   - 
