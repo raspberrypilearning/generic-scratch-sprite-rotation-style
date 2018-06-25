@@ -1,4 +1,4 @@
-Vous pouvez définir la manière dont un lutin pivote.
+Tu peux définir la manière dont un lutin pivote.
 
 - Clique sur le **i** bleu près du lutin dans le panneau **lutin**.
 
@@ -11,5 +11,5 @@ Vous pouvez définir la manière dont un lutin pivote.
 Les styles sont:
 
 - Rotation complète - le lutin pointe dans la direction à laquelle il fait face
-- Gauche-droite - retourne le lutin à gauche ou à droite uniquement
+- Gauche-droite - le lutin se tourne à gauche ou à droite uniquement
 - Ne pas faire pivoter - le lutin a la même apparence, quelle que soit la direction
