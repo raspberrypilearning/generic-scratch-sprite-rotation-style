@@ -1,15 +1,15 @@
 ---
-title: Установите стиль вращения спрайтов
-hero_image: Изображения / banner.png
-description: Установите стиль вращения спрайта
-theme: красный
+title: Устанавливаем стиль вращения спрайта
+hero_image: images/banner.png
+description: Устанавливаем стиль вращения спрайта
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: создатель, дизайн-0, программирование-0, физика-комп-0, производство-0, сообщество-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "царапина"
+technologies: "scratch"
 site_areas:
 steps:
   - 
