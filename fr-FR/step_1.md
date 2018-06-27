@@ -1,6 +1,6 @@
 Tu peux définir la manière dont un lutin pivote.
 
-- Clique sur le **i** bleu près du lutin dans le panneau **lutin**.
+- Clique sur le **i** bleu près du lutin dans le panneau **Lutins**.
 
 ![Clique sur le i](images/click-i.png)
 
