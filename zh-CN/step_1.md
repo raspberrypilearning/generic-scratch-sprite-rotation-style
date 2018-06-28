@@ -12,4 +12,4 @@
 
 - 全部旋转 — 将精灵指向它所面向的方向
 - 左–右 — 将精灵向左或向右翻转
-- Don't rotate — the sprite looks the same regardless of which direction it is facing
+- 不旋转— 无论方向如何，精灵看上去是一样的
