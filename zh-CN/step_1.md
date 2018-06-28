@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+可以设置角色精灵旋转方式。
 
-- Click on the blue **i** near the sprite in the **Sprites** panel.
+- 点击精灵面板中精灵角色附近的蓝色**i**
 
-![Click on the i](images/click-i.png)
+![点击i](images/click-i.png)
 
-- Click on the rotation style you want.
+- 点击你想要的旋转样式。
 
-![Different rotation style](images/rotation-style.png)
+![不同的旋转方式](images/rotation-style.png)
 
-The styles are:
+样式是：
 
-- Full rotation — points the sprite in the direction it is facing
-- Left–right — flips the sprite left or right only
+- 全部旋转 — 将精灵指向它所面向的方向
+- 左–右 — 将精灵向左或向右翻转
 - Don't rotate — the sprite looks the same regardless of which direction it is facing
