@@ -1,6 +1,6 @@
-Você pode definir de que maneira um sprite gira.
+Você pode definir de que maneira um ator gira.
 
-- Clique **i** azul próximo ao ator no painel **Atores**.
+- Clique no **i** azul próximo ao ator no painel **Atores**.
 
 ![Clique no i](images/click-i.png)
 
@@ -10,6 +10,6 @@ Você pode definir de que maneira um sprite gira.
 
 Os estilos são:
 
-- Rotação total - aponta o ator na direção em frente
+- Rotação total — aponta o ator na direção selecionada
 - Esquerda-Direita — Inverte o ator para a esquerda ou para a direita
-- Não gire - o sprite parece o mesmo independentemente da direção em que está voltado
+- Não gire — O ator parece o mesmo independentemente da direção selecionada
