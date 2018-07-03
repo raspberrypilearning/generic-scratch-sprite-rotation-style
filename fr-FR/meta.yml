@@ -2,12 +2,12 @@
 title: Définir le style de rotation du lutin
 hero_image: images/banner.png
 description: Définir le style de rotation d'un lutin
-theme: rouge
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: créateur, design-0, programmation-0, phys-comp-0, fabrication-0, communauté-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: "scratch"
 site_areas:
