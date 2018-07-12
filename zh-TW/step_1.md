@@ -2,7 +2,7 @@
 
 - 點擊 **Sprites** 面板中sprite附近的藍色 **i**。
 
-![點擊我](images/click-i.png)
+![點選我](images/click-i.png)
 
 - 點擊你想要的旋轉風格。
 
