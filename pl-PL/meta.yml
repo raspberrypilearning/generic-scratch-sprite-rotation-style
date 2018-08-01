@@ -1,15 +1,15 @@
 ---
-title: Ustaw styl rotacji sprite
-hero_image: images / banner.png
-description: Ustaw styl rotacji ikonki
-theme: czerwony
+title: Ustaw styl obrotów duszka
+hero_image: images/banner.png
+description: Ustaw styl obrotów duszka
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: twórca, design-0, programowanie-0, phys-comp-0, production-0, community-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "zadraśnięcie"
+technologies: "scratch"
 site_areas:
 steps:
   - 
