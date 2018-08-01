@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+आपका स्प्राइट किस दिशा में घूमे यह आप सेट कर सकते हैं।
 
-- Click on the blue **i** near the sprite in the **Sprites** panel.
+- आप **स्प्राइटस(Sprites)** पैनल में स्प्राइट के निकट नीले **i** पर क्लिक कर सकते हैं।
 
-![Click on the i](images/click-i.png)
+![i पर क्लिक करें।](images/click-i.png)
 
-- Click on the rotation style you want.
+- अपने इच्छानुसार घुमाव शैली पर क्लिक करें।
 
-![Different rotation style](images/rotation-style.png)
+![विभिन्न घुमाव शैली](images/rotation-style.png)
 
-The styles are:
+शैली इस प्रकार हैं:
 
-- Full rotation — points the sprite in the direction it is facing
-- Left–right — flips the sprite left or right only
-- Don't rotate — the sprite looks the same regardless of which direction it is facing
+- पूरा घुमाव — स्प्राइट को सामने की दिशा में इंगित करता है
+- बाएँ–दाएँ — स्प्राइट को केवल बाएँ या दाएँ हटाता है
+- न घूमना — स्प्राइट वैसा ही दिखाई देता है चाहे इसका चेहरा किसी भी दिशा में हो
