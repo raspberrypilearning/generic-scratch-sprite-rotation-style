@@ -1,15 +1,15 @@
 ---
 title: 스프라이트 회전 스타일 설정
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: 스프라이트의 회전 스타일 설정
-theme: 빨간
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: 작성자, 디자인 -0, 프로그래밍 -0, phys-comp-0, 제조 -0, 커뮤니티 -0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "할퀴다"
+technologies: "스크래치"
 site_areas:
 steps:
   - 
