@@ -1,7 +1,7 @@
 ---
-title: Ustaw styl obrotów duszka
+title: Ustaw styl rotacji postaci
 hero_image: images/banner.png
-description: Ustaw styl obrotów duszka
+description: Ustaw sposób rotacji postaci
 theme: red
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Wprowadzenie
+    title: Wstęp
