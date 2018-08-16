@@ -1,16 +1,16 @@
 ---
-title: Set sprite rotation style
-hero_image: images/banner.png
-description: Set the rotation style of a sprite
-theme: red
+title: Állítsa be a sprite rotációs stílust
+hero_image: images / banner.png
+description: Állítsa be a sprite forgatási stílusát
+theme: piros
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: alkotó, design-0, programozás-0, fiz-comp-0, gyártás-0, community-0
 interests: ""
-technologies: "scratch"
+technologies: "karcolás"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Bevezetés
