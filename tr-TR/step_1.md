@@ -1,15 +1,15 @@
-Bir sprite'ın hangi yönde döndüğünü ayarlayabilirsiniz.
+Bir hareketli grafiğin hangi yönde döneceğini ayarlayabilirsiniz.
 
-- **Sprite** panelindeki hareketli grafiğin yanındaki mavi **i** üzerine tıklayın.
+- **Sprite** panelinde hareketli grafiğin yanındaki mavi **i** üzerine tıklayın.
 
 ![Üzerine tıklayın](images/click-i.png)
 
-- İstediğiniz döndürme stilini tıklayın.
+- İstediğiniz döndürme şekli üzerine tıklayın.
 
 ![Farklı rotasyon tarzı](images/rotation-style.png)
 
-Stilleri:
+Döndürme şekilleri şunlardır:
 
-- Tam dönüş - hareketli grafiğe baktığı yöne bakar
-- Sol-sağ - sprite sola veya sağa çevirir
-- Döndürme - hangi yöne baktığından bağımsız olarak hareketli grafik aynı görünür
+- Tam dönüş - hareketli grafiğin baktığı yöne işaret eder
+- Sol-sağ - hareketli grafiği sadece sola veya sağa çevirir
+- Döndürmez - hangi yöne dönük olduğundan bağımsız olarak hareketli grafik aynı görünür
