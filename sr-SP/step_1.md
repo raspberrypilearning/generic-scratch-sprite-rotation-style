@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+Можете изабрати како се лик ротира.
 
-- Click on the blue **i** near the sprite in the **Sprites** panel.
+- Кликни на плаво слово **i** поред лика у делу **Ликови**.
 
-![Click on the i](images/click-i.png)
+![Кликни на слово i](images/click-i.png)
 
-- Click on the rotation style you want.
+- Кликни на жељени стил ротације.
 
-![Different rotation style](images/rotation-style.png)
+![Различити стилови ротације](images/rotation-style.png)
 
-The styles are:
+Стилови су:
 
-- Full rotation — points the sprite in the direction it is facing
-- Left–right — flips the sprite left or right only
-- Don't rotate — the sprite looks the same regardless of which direction it is facing
+- Потпуна ротација - усмерава лик у правцу у којем је окренут
+- Лево-десно - Обрће лика само лево или десно
+- Без ротације - лик изгледа исто, без обзира на правац у којем ј еокренут
