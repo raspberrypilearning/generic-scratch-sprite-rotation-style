@@ -1,4 +1,4 @@
-Aby ustawić sposób rotacji postaci.
+Aby ustawić sposób rotacji postaci:
 
 - Kliknij niebieskie **i** w pobliżu duszka w panelu **Duszki**.
 
