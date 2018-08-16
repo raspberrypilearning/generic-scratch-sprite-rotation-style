@@ -1,7 +1,7 @@
 ---
-title: Set sprite rotation style
+title: Изаберите стил ротације лика
 hero_image: images/banner.png
-description: Set the rotation style of a sprite
+description: Изаберите стил ротације лика
 theme: red
 duration: 1
 listed: false
@@ -9,8 +9,8 @@ ingredient: true
 copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "scratch"
+technologies: "скреч"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Увод
