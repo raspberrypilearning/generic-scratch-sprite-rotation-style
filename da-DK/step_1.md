@@ -1,10 +1,10 @@
-Du kan indstille hvilken måde en sprite roterer.
+Du kan indstille hvilken vej en sprite roterer.
 
 - Klik på den blå **i** nær sprite i **Sprites** panelet.
 
 ![Klik på i](images/click-i.png)
 
-- Klik på den ønskede rotationsstil.
+- Klik på den ønskede rotations stil.
 
 ![Forskellige drejestil](images/rotation-style.png)
 
