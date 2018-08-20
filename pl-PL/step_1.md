@@ -10,6 +10,6 @@ Aby ustawić sposób rotacji postaci.
 
 Style to:
 
-- Pełny obrót - ustawia postać w kierunku, w którym jest zwrócona
-- Lewo-prawo - odwraca postać w lewo lub w prawo
-- Nie obracaj - postać wygląda tak samo niezależnie od kierunku w którym jest zwrócona
+- Pełny obrót - ustawia duszka w kierunku, w którym jest zwrócony
+- Lewo-prawo - odwraca duszka tylko w lewo lub w prawo
+- Nie obracaj - duszek wygląda tak samo niezależnie od kierunku, w którym jest zwrócony
