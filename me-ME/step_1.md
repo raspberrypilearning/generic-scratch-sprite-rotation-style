@@ -10,6 +10,6 @@ Možeš da podesiš na koji način će se lik okretati.
 
 Stilovi su:
 
-- Puna rotacija — usmjerava lik u smjeru u kojem je okrenut
+- Potpuna rotacija — usmjerava lik u pravcu u kojem je okrenut
 - Lijevo-desno — okreće lik samo ulijevo ili udesno
-- Ne rotiraj - lik izgleda isto, bez obzira na to u kojem smjeru je okrenut
+- Ne rotiraj - lik izgleda isto, bez obzira na to u kojem pravcu je okrenut
