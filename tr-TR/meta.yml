@@ -1,13 +1,13 @@
 ---
-title: Hareketli grafiğin döndürme stilini ayarla
-hero_image: images / banner.png
-description: Bir hareketli grafiğin dönüş stilini ayarlama
-theme: kırmızı
+title: Kuklanın dönüş izninin ayarlanması
+hero_image: images/banner.png
+description: Bir kuklanın dönüş iznini ayarlayın
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programlama-0, fiz-comp-0, production-0, topluluk-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: "scratch"
 site_areas:
