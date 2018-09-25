@@ -1,16 +1,16 @@
 ---
-title: تنظیم چرخش جنبش
-hero_image: images / banner.png
-description: سبک چرخش یک جنبش را تنظیم کنید
-theme: سرخ
+title: تنظیم سبک چرخش شبح
+hero_image: images/banner.png
+description: سبک چرخش یک شبح را تنظیم کنید
+theme: قرمز
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: خالق، طراحی 0، برنامه نویسی 0، فیزیک کامپوننت 0، تولید 0، جامعه 0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "خراش"
+technologies: "اسکرچ"
 site_areas:
 steps:
   - 
-    title: معرفی
+    title: مقدمه
