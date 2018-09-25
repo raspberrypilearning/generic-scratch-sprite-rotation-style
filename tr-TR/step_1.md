@@ -1,15 +1,15 @@
-Bir hareketli grafiğin hangi yönde döneceğini ayarlayabilirsiniz.
+Bir kuklanın hangi şekilde döneceğini ayarlayabilirsiniz.
 
-- **Sprite** panelinde hareketli grafiğin yanındaki mavi **i** üzerine tıklayın.
+- **Kuklalar** panelinde kuklanın yanındaki mavi **i** üzerine tıklayın.
 
-![Üzerine tıklayın](images/click-i.png)
+![i'nin üzerine tıklayın](images/click-i.png)
 
-- İstediğiniz döndürme şekli üzerine tıklayın.
+- İstediğiniz dönüş izni üzerine tıklayın.
 
-![Farklı rotasyon tarzı](images/rotation-style.png)
+![Farklı dönüş izni](images/rotation-style.png)
 
-Döndürme şekilleri şunlardır:
+Dönüş izinleri şunlardır:
 
-- Tam dönüş - hareketli grafiğin baktığı yöne işaret eder
-- Sol-sağ - hareketli grafiği sadece sola veya sağa çevirir
-- Döndürmez - hangi yöne dönük olduğundan bağımsız olarak hareketli grafik aynı görünür
+- Tam dönüş - kukla, fare ile birlikte istenilen yöne döndürülebilir
+- Sol-sağ \--- kuklayı sadece sola veya sağa döndürür
+- Döndürme yok - halihazırda hangi yöne dönük olduğundan bağımsız olarak kukla olduğu yönde kalır
