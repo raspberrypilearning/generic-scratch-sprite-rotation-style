@@ -1,6 +1,6 @@
-Voit määrittää, millä tavalla sprite pyörii.
+Voit määrittää, millä tavalla hahmo pyörii.
 
-- Napsauta **i** sinistä **Sprites** -paneelissa olevaa spriteä lähellä.
+- Napsauta sinistä **i** -ikonia **Hahmot** -paneelissa näkyvän hahmon yläkulmassa.
 
 ![Napsauta i](images/click-i.png)
 
@@ -10,6 +10,6 @@ Voit määrittää, millä tavalla sprite pyörii.
 
 Tyylit ovat:
 
-- Täysi kiertyminen - osoittaa spriteä sen suunnassa
-- Vasen oikea - käännä sprite vain vasemmalle tai oikealle
-- Älä pyöritä - sprite näyttää samalta riippumatta siitä, mihin suuntaan se on
+- Täysi pyöritys - hahmo voi osoittaa kaikkiin suuntiin
+- Vasen oikea - peilaa hahmoa vain vasemmalle tai oikealle
+- Älä pyöritä - hahmo näyttää samalta riippumatta siitä, mihin suuntaan se osoittaa
