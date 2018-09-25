@@ -1,15 +1,15 @@
 ---
-title: Állítsa be a sprite rotációs stílust
-hero_image: images / banner.png
-description: Állítsa be a sprite forgatási stílusát
-theme: piros
+title: Állítsd be a szereplő forgási stílusát
+hero_image: images/banner.png
+description: Állítsd be egy szereplő forgási stílusát
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: alkotó, design-0, programozás-0, fiz-comp-0, gyártás-0, community-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "karcolás"
+technologies: "scratch"
 site_areas:
 steps:
   - 
