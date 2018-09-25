@@ -1,15 +1,15 @@
-Du kan indstille hvilken vej en sprite roterer.
+Du kan indstille, hvilken vej en sprite roterer.
 
-- Klik på den blå **i** nær sprite i **Sprites** panelet.
+- Klik på det blå **i** nær sprite i **Sprites** panelet.
 
 ![Klik på i](images/click-i.png)
 
-- Klik på den ønskede rotations stil.
+- Klik på den ønskede rotationsstil.
 
-![Forskellige rotations stil](images/rotation-style.png)
+![Forskellig rotationsstil](images/rotation-style.png)
 
 Stilarterne er:
 
-- Fuld rotation - peger sprite i den retning, den vender mod
+- Fuld rotation - peger spriten i den retning, den vender mod
 - Venstre-højre - vender kun sprite til venstre eller højre
-- Drej ikke - sprite ser det samme uanset hvilken retning den vender mod
+- Roter ikke - spriten ser ens ud uanset hvilken retning, den vender mod
