@@ -1,15 +1,15 @@
-Beállíthatja, hogy a sprite hogyan forduljon el.
+Beállíthatod, hogy a szereplő hogyan forduljon el.
 
-- Kattintson a kék **i** a sprite közelében a **Sprites** panelben.
+- Kattints a kék **i** ikonra a szereplő mellett a **Szereplők** panelen.
 
-![Kattintson az i](images/click-i.png)
+![Kattints az i-re](images/click-i.png)
 
-- Kattintson a kívánt forgatási stílusra.
+- Kattints a kívánt forgási stílusra.
 
-![Különböző forgatási stílus](images/rotation-style.png)
+![Különböző forgási stílus](images/rotation-style.png)
 
 A stílusok:
 
-- Teljes forgatás - a sprite irányába mutat
-- Bal-jobb - csak balra vagy jobbra fordítja a sprite-t
-- Ne forgassa el - a sprite ugyanúgy néz ki, függetlenül attól, hogy melyik irányba néz
+- Teljes forgatás - a szereplő arra fordul, amerre néz
+- Bal-jobb - csak balra vagy jobbra fordítja a szereplőt
+- Ne forgassa el - a szereplő mindig ugyanúgy néz ki, függetlenül attól, hogy melyik irányba néz
